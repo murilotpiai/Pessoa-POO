@@ -1,0 +1,10 @@
+C:\Users\Murilo\OneDrive\Desktop\Pessoa-POO\bin\Debug\Pessoa-POO.exe.config
+C:\Users\Murilo\OneDrive\Desktop\Pessoa-POO\bin\Debug\Pessoa-POO.exe
+C:\Users\Murilo\OneDrive\Desktop\Pessoa-POO\bin\Debug\Pessoa-POO.pdb
+C:\Users\Murilo\OneDrive\Desktop\Pessoa-POO\obj\Debug\Pessoa-POO.csproj.AssemblyReference.cache
+C:\Users\Murilo\OneDrive\Desktop\Pessoa-POO\obj\Debug\Pessoa_POO.Form1.resources
+C:\Users\Murilo\OneDrive\Desktop\Pessoa-POO\obj\Debug\Pessoa_POO.Properties.Resources.resources
+C:\Users\Murilo\OneDrive\Desktop\Pessoa-POO\obj\Debug\Pessoa-POO.csproj.GenerateResource.cache
+C:\Users\Murilo\OneDrive\Desktop\Pessoa-POO\obj\Debug\Pessoa-POO.csproj.CoreCompileInputs.cache
+C:\Users\Murilo\OneDrive\Desktop\Pessoa-POO\obj\Debug\Pessoa-POO.exe
+C:\Users\Murilo\OneDrive\Desktop\Pessoa-POO\obj\Debug\Pessoa-POO.pdb
