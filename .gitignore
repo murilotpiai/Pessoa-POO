@@ -1,0 +1,21 @@
+# Build outputs
+[Bb]in/
+[Oo]bj/
+.vs/
+
+# Visual Studio user files
+*.user
+*.rsuser
+*.suo
+*.userosscache
+*.sln.docstates
+
+# NuGet
+packages/
+*.nupkg
+
+# OS / editors
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
